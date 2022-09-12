@@ -1,5 +1,5 @@
 # Flutter_Chapter_22 
-you can get the code of each by it's own branch
+you can get the code of each App by it's own branch/comments
 
 This is series of Flutter UI clones. In this  Video I will make the Flutter UI clone, And  Record a video
 
