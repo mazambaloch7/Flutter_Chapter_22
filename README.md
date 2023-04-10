@@ -11,4 +11,3 @@ Please check the branchs for your favourite App source code.
 
 
 YouTube channel links
-https://www.youtube.com/channel/UCpjfgBwQSyfC_sZxxvceoJg
